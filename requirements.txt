@@ -1,7 +1,4 @@
 opencv-python
 numpy
-math
-time
 cvzone
-random
 opencv-python-headless
